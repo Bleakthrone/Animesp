@@ -9,11 +9,6 @@
   </body>
 </html>
 <h1>Bienvenidos a Animesp</h1>
-
-Para agregar una sección de comentarios en una página web con HTML, puedes utilizar el siguiente código:
-
-php
-Copy code
 <!-- Sección de comentarios -->
 <h2>Comentarios</h2>
 <form>
